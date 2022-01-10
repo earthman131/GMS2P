@@ -2,8 +2,7 @@
 
 Modified interpolation-iteration continuation method
 
-Developed by Lianghui Guo, 2011-2-13
-
+Developed by Lianghui Guo
 
 # Prerequisites
 
