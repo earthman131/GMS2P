@@ -22,7 +22,7 @@ Guo L H, Cui Y T. New methods and program for frequency domain processing and im
 
 # License
 
-GMCurvature is an open source project under the GNU General Public License v3.0. It is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+GMS2P is an open source project under the GNU General Public License v3.0. It is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 # All rights reserved：
 
