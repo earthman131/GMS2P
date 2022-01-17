@@ -14,7 +14,7 @@ The code being implemented in MATLAB, it requires the MATLAB software, which is 
 
 # Usage
 
-To launch the program, it just requires to dowload ‘Matlab_Code’ from my repositories and execute the script GMCurvature.m on MATLAB. 
+To launch the program, it just requires to dowload ‘Matlab_Code’ from my repositories and execute the script GMS2P.m on MATLAB. 
 
 # Email:
 
