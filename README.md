@@ -6,7 +6,7 @@ Developed by Lianghui Guo
 
 # Principles
 
-
+GMS2P is a MatLab code for gravitational anomaly continuation from the undulating surface to the plane can provide gravity data from horizontal plane for data processing and inversion in frequency domain. Based on the theory of conventional interpolation-iteration method, this study proposed a modified interpolation-iteration method by introducing a correction factor of undulating observation surface in the iterative process of anomaly correction. The improved method accelerates the iterative convergence speed and promote the effect of continuation. The theoretical model shows that this method is stable and effective, and suitable for the complex conditions of observation surface undulating terribly and big-span continuation. The result presented by this method is better than the conventional interpolation-iteration method. 
 
 # Prerequisites
 
