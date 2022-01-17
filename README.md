@@ -4,6 +4,10 @@ Modified interpolation-iteration continuation method
 
 Developed by Lianghui Guo
 
+# Principles
+
+
+
 # Prerequisites
 
 The code being implemented in MATLAB, it requires the MATLAB software, which is licensed under the MathWorks sofware company. MATLAB can be downloaded at the following link https://www.mathworks.com/downloads/, and more information can be found about the license fee on the website.
