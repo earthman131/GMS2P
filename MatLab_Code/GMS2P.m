@@ -1,13 +1,21 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Modified interpolation-iteration continuation method
+% Author: Lianghui Guo (guolh@cugb.edu.cn)
+% Organization: China University of Geosciences (Beijing), School of Geophysics and Information Technology
+% Compiled version: MATLAB R2017b
+% Reference: 
+%       Guo L H, Cui Y T. New methods and program for frequency domain processing and imaging of gravity  
+%       and magnetic data. Beijing: Geological publishing house, 2021. (in Chinese)
 % Description of the input parameters: 
-%       infile_obsï¼šoriginal anomaly data file
-%       infile_topoï¼šundulant observation surface file, positive upward, unit: m
-%       iterï¼šnumber of iterations
-%       hminï¼šinitial elevation of interpolation, generally less than the lowest value of the undulant surface, unit: m
-%       hmaxï¼šfinal elevation of interpolation, generally greater than the highest value of the undulant surface, unit: m
-%       dhï¼šspacing in the altitude direction, unit: m
+%       infile_obs£ºoriginal anomaly data file
+%       infile_topo£ºundulant observation surface file, positive upward, unit: m
+%       iter£ºnumber of iterations
+%       hmin£ºinitial elevation of interpolation, generally less than the lowest value of the undulant surface, unit: m
+%       hmax£ºfinal elevation of interpolation, generally greater than the highest value of the undulant surface, unit: m
+%       dh£ºspacing in the altitude direction, unit: m
 % Description of the output parameters: 
 %       outfile: result file
-% Description of primary identifiersï¼š
+% Description of primary identifiers£º
 %       x, y: x, y verctor
 %       nx, ny: number of points in x and y directions
 %       dx, dy: spacing in x and y directions
@@ -17,7 +25,7 @@
 %       nh: number of points in altitude direction
 %       h: altitude direction vector
 %       g3: result data
-% Description of subroutine functionï¼š
+% Description of subroutine function£º
 %       readgrd.m: read surfer text grd file
 %       s2p.m: modified interpolation-iteration continuation
 %       upcon.m: upward continuation in frequency domain
