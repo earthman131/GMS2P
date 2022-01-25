@@ -23,7 +23,7 @@ guolh@cugb.edu.cn
 
 # Reference: 
 
-Guo L H, Cui Y T. New methods and program for frequency domain processing and imaging of gravity and magnetic data. Beijing: Geological publishing house, 2021. (in Chinese)
+Guo L H, Cui Y T. New methods and programs for frequency-domain processing and imaging of gravity and magnetic data. Beijing: Geological publishing house, 2021. (in Chinese)
 
 # License
 

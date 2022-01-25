@@ -4,7 +4,7 @@
 % Organization: China University of Geosciences (Beijing), School of Geophysics and Information Technology
 % Compiled version: MATLAB R2017b
 % Reference: 
-%       Guo L H, Cui Y T. New methods and program for frequency domain processing and imaging of gravity  
+%       Guo L H, Cui Y T. New methods and programs for frequency-domain processing and imaging of gravity  
 %       and magnetic data. Beijing: Geological publishing house, 2021. (in Chinese)
 % Description of the input parameters: 
 %       infile_obs£ºoriginal anomaly data file
